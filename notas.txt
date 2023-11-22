@@ -1,0 +1,14 @@
+Node version manager
+
+repositorio: https://github.com/glrodasz/codigo-facilito-curso-profesional-node/tree/main
+
+node --watch index.js
+
+middlewares recomendados:
+-Morgan
+-CORS
+-Helmet
+-Passport
+-Compression
+
+npm audit
